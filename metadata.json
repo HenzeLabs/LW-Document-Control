@@ -1,0 +1,5 @@
+{
+  "name": "DocFlow - Document Change Control",
+  "description": "A web application inspired by DocuSign to manage and track Document Change Request Forms, featuring dynamic forms, a role-based approval workflow engine, and a dashboard for tracking requests.",
+  "requestFramePermissions": []
+}
